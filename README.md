@@ -20,16 +20,16 @@ Explorar coisas novas
 
 ### 📊 Minhas Estatísticas e Contribuições
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHFogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHFogo&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
-<div align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHFogo/PHFogo/output/PHFogo-github-contribution-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHFogo/PHFogo/output/PHFogo-github-contribution.svg" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?PHFogo=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?PHFogo=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?PHFogo=anuraghazra&show_icons=true" />
 </picture>
-</div>
 
 <img src="https://raw.githubusercontent.com/PHFogo/PHFogo/output/snake.svg" alt="Snake animation" />
