@@ -2,13 +2,13 @@
 
 🎓 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) na Universidade Integrado - Campo Mourão.
 
-🌎 Idiomas:
+### 🌎 Idiomas:
 
 🇧🇷 Português (nativo)
 
 🇺🇸 Inglês (intermediário, consigo manter algumas conversas sem tradutor)
 
-## 🎮 Hobbies:
+### 🎮 Hobbies:
 
 Jogar videogame
 
