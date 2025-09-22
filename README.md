@@ -21,15 +21,14 @@ Explorar coisas novas
 ### 📊 Minhas Estatísticas e Contribuições
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAN2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAN2&layout=compact&langs_count=6&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PHFogo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PHFogo&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoaoAN2/JoaoAN2/output/joaoan2-github-contribution-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoaoAN2/JoaoAN2/output/joaoan2-github-contribution.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/JoaoAN2/JoaoAN2/output/joaoan2-github-contribution.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PHFogo/JoaoAN2/output/joaoan2-github-contribution-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PHFogo/JoaoAN2/output/joaoan2-github-contribution.svg" />
   </picture>
 </div>
 
