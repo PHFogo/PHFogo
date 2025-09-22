@@ -16,7 +16,7 @@ Ouvir música
 
 Explorar coisas novas
 
-### 🔗 Meu espaço pessoal: phenrique.carrd.co
+#### 🔗 Meu espaço pessoal: https://phenrique.carrd.co
 
 ### 📊 Minhas Estatísticas e Contribuições
 
