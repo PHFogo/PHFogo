@@ -1,4 +1,4 @@
-###👋 Olá, eu sou o PH
+# 👋 Olá, eu sou o PH
 
 🎓 Atualmente cursando Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) na Universidade Integrado - Campo Mourão.
 
@@ -8,7 +8,7 @@
 
 🇺🇸 Inglês (intermediário, consigo manter algumas conversas sem tradutor)
 
-##🎮 Hobbies:
+## 🎮 Hobbies:
 
 Jogar videogame
 
